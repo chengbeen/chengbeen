@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Li Shuya @chengbeen
+- 👋 Hi, I’m Li Shuya
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning PHP
 
